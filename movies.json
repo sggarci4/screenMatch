@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Matrix",
+    "ReleaseDate": 1993,
+    "MinutesFilm": 60,
+    "PlanAcces": false,
+    "SumOfTheRatings": 0.0,
+    "TotalOfTheRatings": 0
+  },
+  {
+    "Name": "Encanto",
+    "ReleaseDate": 2021,
+    "MinutesFilm": 102,
+    "PlanAcces": false,
+    "SumOfTheRatings": 0.0,
+    "TotalOfTheRatings": 0
+  }
+]
